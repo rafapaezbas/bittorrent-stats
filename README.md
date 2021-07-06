@@ -3,7 +3,7 @@ Small Nodejs script that queries for random torrent node ids and checks geograph
 Outputs an orderer array of {country: number of peers found}
 By default the script checks for 100 random ids.
 
-#Usage
+# Usage
 ```
 node index.js
 
